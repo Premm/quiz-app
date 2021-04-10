@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App - Task 3.1C</string>
+    <string name="enter_name_label">Enter your name</string>
+    <string name="start_button_text">Start</string>
+    <string name="welcome_message">Welcome %1$s</string>
+    <string name="submit_text">Submit</string>
+    <string name="next_text">Next</string>
+    <string name="progress_label">%1$d/%2$d</string>
+    <string name="score_label">Your score:</string>
+    <string name="congratulations">Congratulations %1$s!</string>
+    <string name="do_better">C\'mon %1$s, you can do better than that!</string>
+    <string name="score">%1$d/%2$d</string>
+    <string name="finish_button">Finish</string>
+    <string name="new_quiz_button">Take New Quiz</string>
+</resources>
